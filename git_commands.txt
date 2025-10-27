@@ -1,0 +1,5 @@
+git branch <branch-name>        # Create a new branch
+git merge <branch-name>         # Merge a branch into the current branch
+git commit -m "Commit message"  # Save staged changes with a message
+git push origin <branch-name>   # Push branch to remote
+git pull origin <branch-name>   # Pull latest from remote
